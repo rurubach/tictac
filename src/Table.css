@@ -1,0 +1,6 @@
+.table {
+    display: flex;
+    flex-wrap: wrap;
+    width: 492px;
+    height: 492px;
+}
